@@ -1,11 +1,12 @@
 ### Hi there, I'm Swadesh from Odisha, India 👋
 
 ## I'm a Father, Developer, and Teacher!
-- 🔭 I’m currently working on [Litekart][website]!
-- 🌱 I love creating web interfaces. @vuejs 🧰 is my primary tool for creating web apps.
+- 🔭 I’m currently working on [Litekart][website], [Frontendfun](https://www.frontendfun.com)!
+- 🌱 I love creating web interfaces @tailwindcss 
+- 🧰 @vuejs is my primary tool for creating web apps.
 - 👯 I’m looking to collaborate with other ecommerce startups and creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to see creative designs
+- ⚡ Love: @svelte
 
 ### Connect with me:
 
