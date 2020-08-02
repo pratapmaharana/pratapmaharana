@@ -24,8 +24,8 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/vue.png" />][website]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gridsome.png" />][website]
+[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][website]
+[<img align="left" alt="Gridsome" width="26px" src="https://avatars2.githubusercontent.com/u/17981963?v=4" />][website]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][website]
@@ -43,7 +43,7 @@
 
 ### 📺 Latest Projects
 <!-- PROJECTS:START -->
-- [Frontendfun](https://www.frontendfun.com/)
+- [Frontendfun | best open source projects collection](https://www.frontendfun.com/)
 - [Litekart | ecommerce platform for next generation](https://www.litekart.in/)
 - [Hopyshopy | open source ecommerce frontend using svelte/sapper](https://www.hopyshopy.com/)
 - [Foodfire | opens source firebase ecommerce platform](https://foodfire.info/)
@@ -62,10 +62,10 @@
 
 ---
 
-<img align="left" alt="Litekart's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Litekart's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itswadesh&show_icons=true&hide_border=true" />
 
 [website]: https://www.litekart.in
 [twitter]: https://twitter.com/itswadesh
 [youtube]: https://youtube.com/codenx2
-[instagram]: https://instagram.com/codenx
+[instagram]: https://instagram.com/litekart
 [linkedin]: https://linkedin.com/in/itswadesh
