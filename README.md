@@ -66,6 +66,7 @@
 <img align="left" alt="Litekart's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itswadesh&show_icons=true&hide_border=true" />
 
 [website]: https://www.litekart.in
+[facebook]: https://www.facebook.com/codenx2
 [twitter]: https://twitter.com/itswadesh
 [youtube]: https://youtube.com/codenx2
 [instagram]: https://instagram.com/litekart
