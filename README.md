@@ -47,6 +47,7 @@
 - [Frontendfun | best open source projects collection](https://www.frontendfun.com/)
 - [Litekart | ecommerce platform for next generation](https://www.litekart.in/)
 - [ShopNx | affiliate management platform for youtubers](https://shopnx.in/)
+- [Misiki | community based food ordering platform](https://www.misiki.in/)
 - [Hopyshopy | open source ecommerce frontend using svelte/sapper](https://www.hopyshopy.com/)
 - [Foodfire | opens source firebase ecommerce platform](https://foodfire.info/)
 <!-- PROJECTS:END -->
