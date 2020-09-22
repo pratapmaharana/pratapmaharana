@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with other ecommerce startups and creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Love: @svelte
+- 🤖 Codecanyon Portfolio https://codecanyon.net/user/itswadesh/portfolio
 
 ### Connect with me:
 
