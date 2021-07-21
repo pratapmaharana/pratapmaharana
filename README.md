@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer!
 > 🔭 I’m currently working on [Litekart][website], [Frontendfun](https://www.frontendfun.com), [ShopNx](https://shopnx.in)!
-> 💻 I love creating web interfaces @tailwindcss
+> 👨‍💻 I love creating web interfaces @tailwindcss
 > 🧰 @vuejs is my primary tool for creating web apps
 > ⚡ Love: @svelte
 
