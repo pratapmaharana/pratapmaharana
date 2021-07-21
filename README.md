@@ -43,6 +43,6 @@
 
 
 [facebook]: https://www.facebook.com/pratapchandra.maharana.37/
-<!-- [twitter]: https://twitter.com/itswadesh -->
+[twitter]: https://twitter.com/pratap_mahar
 [instagram]: https://www.instagram.com/pratap.kritic/?hl=en
 [linkedin]: https://www.linkedin.com/in/pratap-maharana-63bb42169/
