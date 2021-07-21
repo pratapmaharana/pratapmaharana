@@ -1,13 +1,10 @@
-### Hi there, I'm Swadesh from Odisha, India 👋
+### 👋 Hi there, I'm Pratap from Odisha, India 
 
-## I'm a Father, Developer, and Teacher!
-- 🔭 I’m currently working on [Litekart][website], [Frontendfun](https://www.frontendfun.com), [ShopNx](https://shopnx.in)!
-- 🌱 I love creating web interfaces @tailwindcss 
-- 🧰 @vuejs is my primary tool for creating web apps.
-- 👯 I’m looking to collaborate with other ecommerce startups and creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Love: @svelte
-- 🤖 Codecanyon Portfolio https://codecanyon.net/user/itswadesh/portfolio
+## I'm a Frontend Developer!
+> 🔭 I’m currently working on [Litekart][website], [Frontendfun](https://www.frontendfun.com), [ShopNx](https://shopnx.in)!
+> 💻 I love creating web interfaces @tailwindcss
+> 🧰 @vuejs is my primary tool for creating web apps
+> ⚡ Love: @svelte
 
 ### Connect with me:
 
