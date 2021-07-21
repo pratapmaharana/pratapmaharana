@@ -41,10 +41,6 @@
 
 ---
 
----
-
-<img align="left" alt="Litekart's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itswadesh&show_icons=true&hide_border=true" />
-
 
 [facebook]: https://www.facebook.com/pratapchandra.maharana.37/
 <!-- [twitter]: https://twitter.com/itswadesh -->
