@@ -45,8 +45,8 @@
 ---
 [website]: https://misiki.tech/
 [github]: https://github.com/pratapmaharana
-[facebook]: https://www.facebook.com/pratapchandra.maharana.37/
+[facebook]: https://www.facebook.com/pratapchandra.maharana.37
 [twitter]: https://twitter.com/pratap_mahar
-[linkedin]: https://www.linkedin.com/in/pratap-maharana-63bb42169/
-[instagram]: https://www.instagram.com/pratap.kritic/?hl=en
+[linkedin]: https://www.linkedin.com/in/pratap-chandra-maharana-63bb42169/
+[instagram]: https://www.instagram.com/pratap.kritic/
 [youtube]: https://youtu.be/Wc4pduAAKnA
