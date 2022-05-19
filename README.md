@@ -1,18 +1,19 @@
 ### 👋 Hi there, I'm Pratap from Odisha, India 
 
-## I'm a Frontend Developer!
-- 🔭 I’m currently working on [Litekart][website], [Frontendfun](https://www.frontendfun.com), [ShopNx](https://shopnx.in)!
+## I'm a Frontend Engineer!
+- 🔭 I’m currently working on [Misiki](https://misiki.tech/)!
 - 👨‍💻 I love creating web interfaces @tailwindcss
-- 🧰 @vuejs is my primary tool for creating web apps
+- 🧰 @svelte and @vuejs are my primary tool for creating web apps
 - ⚡ Love: @svelte
 
 ### Connect with me:
 
-[<img align="left" alt="litekart.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Litekart | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Litekart | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Litekart | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Litekart | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
@@ -22,6 +23,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" alt="Svelte" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/svelte/svelte.png" />][website]
 [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
@@ -33,16 +35,17 @@
 ---
 
 ### 📺 Latest Projects
+
 <!-- PROJECTS:START -->
+- [Misiki | Saas project](https://www.misiki.tech/)
 - [Frontendfun | best open source projects collection](https://www.frontendfun.com/)
 - [Litekart | ecommerce platform for next generation](https://www.litekart.in/)
-- [Misiki | community based food ordering platform](https://www.misiki.in/)
 <!-- PROJECTS:END -->
 
 ---
-
-
+[website]: https://misiki.tech/
+[github]: https://github.com/pratapmaharana
 [facebook]: https://www.facebook.com/pratapchandra.maharana.37/
 [twitter]: https://twitter.com/pratap_mahar
-[instagram]: https://www.instagram.com/pratap.kritic/?hl=en
 [linkedin]: https://www.linkedin.com/in/pratap-maharana-63bb42169/
+[instagram]: https://www.instagram.com/pratap.kritic/?hl=en
